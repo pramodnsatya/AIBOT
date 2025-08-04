@@ -3,7 +3,7 @@
 🧠  A lightweight AI-powered assistant that responds to queries and performs accurate arithmetic calculations.
 This project is a lightweight yet effective AI assistant built using LangChain and OpenAI's chat models. It can respond to natural language queries and perform accurate arithmetic calculations by leveraging a built-in calculation tool, helping avoid typical AI math errors.
 
-✨ Features:
+✨ **Features:**
 
 🗨️ Conversational AI: Interact with a smart assistant for general queries.
 
@@ -13,7 +13,9 @@ This project is a lightweight yet effective AI assistant built using LangChain a
 
 🛠️ Simple & Extendable: Clean code structure for easy customization and adding more tools.
 
-🔧 Tools & Packages Used:
+
+
+🔧 **Tools & Packages Used:**
 
 👉 LangChain – For building the agent and tool integrations.
 
